@@ -1,0 +1,65 @@
+{
+  "streamer": {
+    "displayName": "Seu Streamer",
+    "tagline": "Bem-vindo(a) ao meu hub!",
+    "avatarUrl": ""
+  },
+  "twitch": {
+    "username": "seuusername",
+    "showFollowers": true
+  },
+  "youtube": {
+    "channelUrl": "https://www.youtube.com/"
+  },
+  "discord": {
+    "inviteUrl": "https://discord.gg/"
+  },
+  "socials": [
+    {
+      "label": "Instagram",
+      "url": "https://instagram.com/",
+      "enabled": true
+    },
+    {
+      "label": "TikTok",
+      "url": "https://tiktok.com/",
+      "enabled": true
+    },
+    {
+      "label": "X (Twitter)",
+      "url": "https://x.com/",
+      "enabled": true
+    },
+    {
+      "label": "YouTube",
+      "url": "https://youtube.com/",
+      "enabled": true
+    },
+    {
+      "label": "Twitch",
+      "url": "https://twitch.tv/",
+      "enabled": true
+    },
+    {
+      "label": "Discord",
+      "url": "https://discord.gg/",
+      "enabled": true
+    }
+  ],
+  "theme": {
+    "accent": "#8b5cf6"
+  },
+  "background": {
+    "imageUrl": "",
+    "blurPx": 18,
+    "dim": 0.55
+  },
+  "manualCounters": {
+    "instagramFollowers": null,
+    "tiktokFollowers": null,
+    "xFollowers": null,
+    "discordMembers": null,
+    "youtubeSubscribers": null,
+    "twitchFollowers": null
+  }
+}
